@@ -8,7 +8,7 @@ package
 	{
 		public function FlxTeroids()
 		{
-			super(320,240,MenuState);
+			super(800,480,MenuState);
 			//showLogo = false;
 		}
 	}
