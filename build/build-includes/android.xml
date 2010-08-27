@@ -40,8 +40,8 @@
             <arg value="-target"/>
             <arg value="apk"/>
             <arg value="-storetype"/>
-            <!--<arg value="pkcs12"/>-->
-			<arg value="jks"	
+            <arg value="pkcs12"/>
+			<!--<arg value="jks"/>-->	
             <arg value="-keystore"/>
             <arg value="${basedir}/build/android-resources/codesigningCert.p12"/>
             <arg value="-storepass"/>
